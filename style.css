@@ -1,0 +1,51 @@
+.gallery img{
+    width:  1200px;
+    height: 500px;
+}
+
+h2{
+    font-family: impact, fantasy;
+    text-align:center;
+    font font-size: 1200px;
+    color: cornflowerblue;
+    font font-style: italic;
+}
+
+h4{
+    font-family: : impact, fantasy;
+    font font-size: 20px;
+    font font-style: italic;
+    color: cornflowerblue;
+    }
+
+p{
+   font-family: helvetica, sans-serif;
+}
+
+#menu{
+    width: 300px;
+    height:40px;
+    background-color: cornflowerblue;
+    display: inline;
+    padding: 10px;
+    
+}
+
+#menu a{
+    color: #ffffff;
+    font-family: helvetica, sans-serif;
+    font font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    padding-left: 20px;
+    padding-right: 20px;
+        
+}
+
+#menu a:hover{
+    color: 5077bd;
+}
+
+#thor   {
+    padding-top: 25px;
+}
